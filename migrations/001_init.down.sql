@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS products;
+DROP TABLE IF EXISTS intakes;
+DROP TABLE IF EXISTS pickup_points;
+DROP TABLE IF EXISTS users;
